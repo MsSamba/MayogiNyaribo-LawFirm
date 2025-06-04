@@ -41,13 +41,13 @@ function AboutPage() {
 
   const team = [
     {
-      name: "Brian Mayogi",
+      name: "Mr. Brian Mayogi",
       position: "Partner",
       description:
-        "With over 5 years of experience in corporate law and litigation, Mr. Mayogi leads our firm with expertise and vision.",
+        "Mr. Mayogi is an Advocate of the High Court of Kenya and the firm's managing partner. He holds a Bachelor of Laws (LL.B.) degree from Moi University and a Post-Graduate Diploma from the Kenya School of Law. He is a member of the Law Society of Kenya.",
       detailedInfo: {
         background:
-          "Mr. Mayogi has worked with a number of reputable firms in Nairobi engaging in civil litigation and commercial law. Prior to founding the firm, he was the Head of Litigation at Getrude Matata, Waithaka & Associates Advocates, where he gained invaluable experience in civil litigation.",
+          "Mr. Mayogi has worked with a number of reputable law firms in Nairobi engaging in civil litigation and commercial law. Prior to founding the firm, he was a senior associate at C&K Advocates LLP where he gained invaluable experience in civil litigation.",
         areasOfInterest: [
           "Commercial Law",
           "Property Law and Conveyance",
@@ -58,13 +58,13 @@ function AboutPage() {
       },
     },
     {
-      name: "Sam Nyaribo",
+      name: "Mr. Sam Nyaribo",
       position: "Partner",
       description:
-        "Specializing in family law and employment matters, Sarah brings compassion and expertise to sensitive legal issues.",
+        "Mr. Nyaribo is an Advocate of the High Court of Kenya. He holds a Bachelor of Laws (LL.B.) degree from Moi University and a Post-Graduate Diploma from the Kenya School of Law. He is a member of the Law Society of Kenya.",
       detailedInfo: {
         background:
-          "Mr. Nyaribo has worked with a number of reputable firms in Nairobi engaging in family law and employment matters. Prior to joining the firm, hhe was a Senior Associate at Kieti & Partners Advocates, where he gained invaluable experience in family and employment law.",
+          "Mr. Nyaribo has worked with a number of reputable firms in Nairobi engaging in family law and employment matters. Prior to joining the firm, the was a Senior Associate at Auta Nyakundi and company Advocates, where he gained invaluable experience in family and employment law.",
         areasOfInterest: [
           "Family Law",
           "Employment Law",
@@ -75,12 +75,12 @@ function AboutPage() {
       },
     },
     {
-      name: "John Doe",
+      name: "Ms. June Imora",
       position: "Associate",
-      description: "Our criminal defense specialist with a strong track record in complex criminal cases and appeals.",
+      description: "Ms. Imora is an Advocate of the High Court of Kenya. She holds a Bachelor of Laws (LL.B.) degree from University of Nairobi and a Post-Graduate Diploma from the Kenya School of Law. She is a member of the Law Society of Kenya.",
       detailedInfo: {
         background:
-          "Mr. Doe has worked with a number of reputable firms in Nairobi engaging in criminal defense and constitutional law. Prior to joining the firm, he was an Associate at Mboya & Associates Advocates, where he gained invaluable experience in criminal litigation.",
+          "Ms. Imora has worked with a number of reputable firms in Nairobi engaging in criminal defense and constitutional law. Prior to joining the firm, she was an Associate at Mboya & Associates Advocates, where she gained invaluable experience in criminal litigation.",
         areasOfInterest: [
           "Criminal Defense",
           "Constitutional Law",

@@ -23,7 +23,7 @@ function Footer() {
             <div className="space-y-2 text-gray-300">
               <p>Phone: +254 723 638 182</p>
               <p>P.O.Box: 2314-00505, Nairobi</p>
-              <p>Email: info@mayoginyaribo.co.ke</p>
+              <p>Email: info@mayoginyariboadvocates.co.ke</p>
             
             </div>
           </div>
