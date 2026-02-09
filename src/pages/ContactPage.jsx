@@ -31,7 +31,7 @@ function ContactPage() {
               <CardContent className="p-6">
                 <Phone className="w-12 h-12 text-amber-600 mx-auto mb-4" />
                 <h3 className="text-lg font-semibold mb-2 text-slate-800">Phone</h3>
-                <p className="text-gray-600">+254 723 838 182</p>
+                <p className="text-gray-600">+254 723 638 182</p>
                 {/* <p className="text-gray-600">+254 711 111 111</p> */}
               </CardContent>
             </Card>

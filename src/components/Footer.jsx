@@ -41,8 +41,8 @@ function Footer() {
         {/* Copyright */}
         <div className="text-center text-gray-400 text-sm">
           <p>
-            © {new Date().getFullYear()} - Mayogi Nyaribo & Company Advocates. All Rights Reserved | Designed By
-            <span className="text-white"> Michelle Samba</span>
+            © {new Date().getFullYear()} - Mayogi Nyaribo & Company Advocates. All Rights Reserved.
+            {/* <span className="text-white"> Michelle Samba</span> */}
           </p>
         </div>
       </div>
