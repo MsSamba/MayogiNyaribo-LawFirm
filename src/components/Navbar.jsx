@@ -1,11 +1,11 @@
 "use client"
 
-import { useState } from "react"
 import { Link } from "react-router-dom"
 import { Menu, X } from "lucide-react"
+import { useLocalStorage } from "../hooks/useLocalStorage"
 
 function Navbar({ activePage }) {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const [mobileMenuOpen, setMobileMenuOpen] = useLocalStorage("navbar_mobileMenuOpen", false)
 
   const toggleMobileMenu = () => {
     setMobileMenuOpen(!mobileMenuOpen)

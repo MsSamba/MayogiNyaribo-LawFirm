@@ -1,13 +1,13 @@
 "use client"
 
-import { useState } from "react"
 import { Users, Award, Clock, Target, Plus, X } from "lucide-react"
+import { useLocalStorage } from "../hooks/useLocalStorage"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
 import { Card, CardContent } from "../components/Card"
 
 function AboutPage() {
-  const [flippedCards, setFlippedCards] = useState({})
+  const [flippedCards, setFlippedCards] = useLocalStorage("aboutPage_flippedCards", {})
 
   const toggleCard = (index) => {
     setFlippedCards((prev) => ({
