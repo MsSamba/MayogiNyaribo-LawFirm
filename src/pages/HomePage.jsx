@@ -149,11 +149,11 @@ function HomePage() {
           <div className="flex flex-col md:flex-row justify-center items-center gap-8">
             <div className="flex items-center gap-2">
               <Phone className="w-5 h-5 text-amber-400" />
-              <span>+254 700 000 000</span>
+              <span>+254 723 638 182</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="w-5 h-5 text-amber-400" />
-              <span>info@mayoginyaribo.co.ke</span>
+              <span>info@mayoginyariboadvocates.co.ke</span>
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="w-5 h-5 text-amber-400" />
